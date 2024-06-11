@@ -1,0 +1,20 @@
+{
+  "name": "repaso_backend_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node apps.js",
+    "dev": "nodemon apps.js"
+  },
+  "keywords": [],
+  "author": "Mariela",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
