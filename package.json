@@ -1,11 +1,11 @@
 {
   "name": "repaso_backend_1",
   "version": "1.0.0",
-  "main": "apps.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node apps.js",
-    "dev": "nodemon apps.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Mariela",
